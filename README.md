@@ -4,8 +4,6 @@
 
 <h1><a href="https://anaclara-amorim.github.io/ProjetoRecodeProModulo2/PrototipoSite/index.html" target="_blank">Habilitado com Git Pages</a></h1>
 
-<img src="PrototipoSite/imagens/site.jpg" alt="Home do site">
-
 ## Este projeto contou com a elaboração de Modelos de banco de dado, conceitual, lógico e físico, abaixo estão as imagens dos modelos:
 
 # Modelo conceitual
