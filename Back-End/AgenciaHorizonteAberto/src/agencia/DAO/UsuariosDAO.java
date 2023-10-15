@@ -31,7 +31,7 @@ public class UsuariosDAO extends Usuarios{
 			
 			pstm.execute();			
 			
-			System.out.println("Criado com sucesso!");
+			//System.out.println("Criado com sucesso!");
 			
 		} 		catch (Exception e) {
 			e.printStackTrace();			
@@ -62,7 +62,7 @@ public class UsuariosDAO extends Usuarios{
 				pstm.setInt(1, id);		
 				pstm.execute();				
 
-				System.out.println("Usuário deletado com sucesso!");
+				//System.out.println("Usuário deletado com sucesso!");
 				
 			} catch (Exception e) {
 				e.printStackTrace();
@@ -99,7 +99,7 @@ public class UsuariosDAO extends Usuarios{
 				pstm.setString(5, usuario.getSenha());	
 				pstm.execute();
 
-				System.out.println("Atualizado com sucesso!");				
+				//System.out.println("Atualizado com sucesso!");				
 
 			} catch (Exception e) {
 				e.printStackTrace();
