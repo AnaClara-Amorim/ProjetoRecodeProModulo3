@@ -10,11 +10,11 @@
 
 <img src="ModelagemDeDados/ModeloConceitual.png" alt="Modelo Conceitual">
 
-# Modelo físico
+# Modelo lógico
 
 <img src="ModelagemDeDados/ModeloLógico.png" alt="Modelo Lógico">
 
-# Modelo lógico
+# Modelo físico
 
 <img src="ModelagemDeDados/ModeloFísicoTXT.png" alt="Modelo Físico">
 
